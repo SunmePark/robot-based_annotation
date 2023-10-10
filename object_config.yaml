@@ -1,0 +1,16 @@
+YCB_SIZE : # mm
+    None:            [20.0, 20.0, 0.1]
+    coffeecan:      [102.0, 102.0, 139.0]
+    mustard :       [55.0, 90.0, 190.0]
+    cracker:        [60.0, 160.0, 210.0]
+    sugarbox:       [49.5, 94.0, 176.0]
+    realsensebox:   [142.0, 90.0, 52.0]
+
+
+class_ids:
+    None:           '00'
+    coffeecan:      '01'
+    mustard:        '02'
+    cracker:        '03'
+    sugarbox:       '04'
+    realsensebox:   '05'
