@@ -42,6 +42,7 @@ in 'data' folder
 │   ├── ...
 ├── Object02
 ```
+<img src="./gendata.png" width="500px" title="Github_Logo"></img>
 ***
 ## Visualization
 Code for projection of annotated pose. \
